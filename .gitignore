@@ -1,0 +1,14 @@
+# Excluir carpetas de compilación Maven
+/target/
+*.war
+*.jar
+*.class
+
+# Excluir configuraciones de editores e IDEs
+/.idea/
+/.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+/nbproject/private/
